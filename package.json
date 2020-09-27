@@ -24,5 +24,6 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
-  "author": "Nilderson Henrique <nildersonhenrique@gmail.com>"
+  "author": "Vitor Hugo <vitor.if@lobo.com>",
+  "repository": "https://github.com/vitor-lf/React.git"
 }
